@@ -262,4 +262,7 @@ Durante el desarrollo de esta PEC se han utilizado distintas herramientas de int
 •	y apoyar procesos de redacción y reformulación. 
 
 El trabajo final, así como la selección de casos, el enfoque crítico, la interpretación teórica y la redacción definitiva del contenido, han sido desarrollados y revisados personalmente.
-Siguiendo las indicaciones de la asignatura, la IA se ha utilizado como herramienta de apoyo dentro de un proceso de reflexión y reelaboración propia, y no como sustitución del criterio personal ni de la autoría del ensayo.
+Siguiendo las indicaciones de la asignatura, la IA se ha utilizado como herramienta de apoyo dentro de un proceso de reflexión y reelaboración propia, y no como sustitución del criterio personal ni de la autoría del ensayo.  
+
+
+Este trabajo está bajo una licencia CC BY-SA 4.0
