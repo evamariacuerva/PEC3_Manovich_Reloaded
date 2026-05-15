@@ -302,6 +302,9 @@ Siguiendo las indicaciones de la asignatura, la IA se ha utilizado como herramie
 
 ## LICENCIA  
 
-Este trabajo está bajo una licencia CC BY-SA 4.0  
-https://creativecommons.org/licenses/by-sa/4.0/  
+El texto original de este trabajo está bajo licencia Creative Commons CC BY-NC-SA 4.0.
+
+Las imágenes, GIFs y materiales visuales utilizados pertenecen a sus respectivos autores y se incluyen exclusivamente con fines académicos y de análisis crítico.
+
+https://creativecommons.org/licenses/by-nc-sa/4.0/ 
 
