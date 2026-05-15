@@ -276,8 +276,11 @@ ________________________________________
 - Guernica en el Casón del Buen Retiro  
   https://www.larazon.es/cultura/arte/20220910/bfwfkhymnngttbsx4254i5m3rq.html  
 
+---
 
-## DECLARACIÓN SOBRE EL USO DE LA IA
+
+## DECLARACIÓN SOBRE EL USO DE LA IA  
+
 
 Durante el desarrollo de esta PEC se han utilizado distintas herramientas de inteligencia artificial generativa como apoyo conceptual, estructural y reflexivo dentro del proceso de trabajo. Estas herramientas se han empleado principalmente para: 
 
