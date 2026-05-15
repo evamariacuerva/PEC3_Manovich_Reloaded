@@ -1,8 +1,11 @@
 # PEC3_Manovich_Reloaded
 
-**Autora:** Eva María Cuerva María 
-**Asignatura:** Cultura Digital 
-**Título:** Hibridación, cuerpo y software: de Pulse Room a Surgical Theaterñ
+**Autora:** Eva María Cuerva María  
+
+**Asignatura:** Cultura Digital  
+
+**Título:** Hibridación, cuerpo y software: de Pulse Room a Surgical Theater
+
 
 ---
 
