@@ -223,15 +223,18 @@ Y creo que, en el fondo, tanto Pulse Room como Surgical Theater apuntan ya hacia
 
 - Adell, F. (2024). Fundamentos y evolución de la multimedia [Recurso de aprendizaje]. Universitat Oberta de Catalunya (UOC).  
 
-- Alberich-Pascual, J. (2018). Elementos de la creatividad multimedia: Apropiación, remediación, hibridación. Mosaic, (156). https://doi.org/10.7238/m.n156.1803  
+- Alberich-Pascual, J. (2018). Elementos de la creatividad multimedia: Apropiación, remediación, hibridación. Mosaic, (156).
+https://doi.org/10.7238/m.n156.1803  
 
 - Manovich, L. (2001). El lenguaje de los nuevos medios de comunicación: La imagen en la era digital. Paidós.  
 
 - Manovich, L. (2013). El software toma el mando. Editorial UOC.  
 
-- Manovich, L., & Arielli, E. (2024). Artificial aesthetics: Generative AI, art and visual media. https://manovich.net/index.php/projects/artificial-aesthetics  
+- Manovich, L., & Arielli, E. (2024). Artificial aesthetics: Generative AI, art and visual media.
+https://manovich.net/index.php/projects/artificial-aesthetics  
 
-- Resnick, M. (2008). Cultivando las semillas para una sociedad más creativa. Actualidades Investigativas en Educación, 8(1), 1–7. https://revista.inie.ucr.ac.cr  
+- Resnick, M. (2008). Cultivando las semillas para una sociedad más creativa. Actualidades Investigativas en Educación, 8(1), 1–7.
+https://revista.inie.ucr.ac.cr  
 
 ________________________________________  
 
@@ -274,7 +277,8 @@ Estos recursos se incluyen como referencia metodológica dentro del contexto de 
 
 - Gea Megías, M. (2022). Herramientas y metodología crowdsourcing para la participación y creación colectiva de conocimiento abierto [Versión Creative Commons]. Universidad de Granada.  
 
-- La Razón. (2022). El Guernica y su llegada a España. https://www.larazon.es/cultura/arte/20220910/bfwfkhymnngttbsx4254i5m3rq.html  
+- La Razón. (2022). El Guernica y su llegada a España.
+https://www.larazon.es/cultura/arte/20220910/bfwfkhymnngttbsx4254i5m3rq.html  
 
 ________________________________________   
 
