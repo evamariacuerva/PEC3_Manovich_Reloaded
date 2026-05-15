@@ -254,13 +254,30 @@ https://www.teamlab.art/e/tokyo/
 
 ________________________________________  
 
+
+## REPOSITORIOS Y RECURSOS DE APOYO
+
+Para la elaboración y publicación de esta PEC se han tenido en cuenta distintos recursos relacionados con cultura colaborativa, documentación abierta y metodologías de publicación en GitHub.
+
+Estos recursos se incluyen como referencia metodológica dentro del contexto de trabajo propuesto por la asignatura, especialmente en relación con escritura abierta, cultura digital y publicación distribuida.
+
+- Lord of the Files  
+  https://github.com/WiredEnterprise/Lord-of-the-Files  
+
+- Metodología Crowdsourcing  
+  https://github.com/mgea/CCpapers/tree/main/MetodologiaCrowdsourcing
+
+ ________________________________________  
+
+  
 ### Recursos complementarios  
 
 - Gea Megías, M. (2022). Herramientas y metodología crowdsourcing para la participación y creación colectiva de conocimiento abierto [Versión Creative Commons]. Universidad de Granada.  
 
 - La Razón. (2022). El Guernica y su llegada a España. https://www.larazon.es/cultura/arte/20220910/bfwfkhymnngttbsx4254i5m3rq.html  
 
----  
+________________________________________   
+
 
 ### Créditos visuales    
 
