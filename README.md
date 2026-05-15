@@ -53,7 +53,9 @@ Un ejemplo muy representativo de este tipo de sistemas es Pulse Room (2006), del
 ## Pulse Room: cuerpo, dato e interacción  
 
 
-### Cuerpo convertido en dato ![Pulse Room: cuerpo convertido en dato](pulse_room_cuerpo_dato_instalacion.jpg)  
+### Cuerpo convertido en dato  
+
+![Pulse Room: cuerpo convertido en dato](pulse_room_cuerpo_dato_instalacion.jpg)  
 
 
 
@@ -61,6 +63,7 @@ La instalación *Pulse Room* transforma el pulso cardíaco de los visitantes en 
 
 
 ### Experiencia reactiva en el espacio  
+
 ![Pulse Room: experiencia reactiva en el espacio](pulse_room_experiencia_reactiva_espacio.gif)   
 
 
@@ -69,6 +72,7 @@ El espacio expositivo responde al comportamiento humano mediante software, senso
 
 
 ### Pulso, luz e interacción   
+
 ![Pulse Room: pulso, luz e interacción](pulse_room_pulso_luz_interaccion.gif)   
 
 
@@ -77,6 +81,7 @@ La señal íntima del cuerpo se traduce en comportamiento visual compartido. Est
 
 
 ### Archivo biológico colectivo   
+
 ![Pulse Room: archivo biológico de bombillas](pulse_room_archivo_biologico_bombillas.gif)  
 
 
@@ -125,7 +130,9 @@ El cuerpo se convierte así en un sistema visual manipulable mediante lógica co
 
 La imagen médica deja de ser una representación plana y se convierte en un sistema de datos manipulable. El software permite organizar, visualizar y recorrer estructuras anatómicas complejas.  
 
-### Cuerpo navegable y realidad aumentada ![Surgical Theater: cuerpo navegable en columna](surgical_theater_cuerpo_navegable_columna.jpg)  
+### Cuerpo navegable y realidad aumentada  
+
+![Surgical Theater: cuerpo navegable en columna](surgical_theater_cuerpo_navegable_columna.jpg)  
 
 El cuerpo se transforma en un entorno tridimensional navegable. La anatomía ya no se observa únicamente desde fuera, sino que puede explorarse mediante interfaces inmersivas.  
 
@@ -274,18 +281,21 @@ ________________________________________
 
 Durante el desarrollo de esta PEC se han utilizado distintas herramientas de inteligencia artificial generativa como apoyo conceptual, estructural y reflexivo dentro del proceso de trabajo. Estas herramientas se han empleado principalmente para: 
 
-•	organizar ideas, 
+- organizar ideas, 
 
-•	explorar enfoques alternativos, 
+- explorar enfoques alternativos, 
 
-•	revisar estructura y coherencia del ensayo, 
+- revisar estructura y coherencia del ensayo, 
 
-•	ampliar documentación sobre algunos casos de estudio, 
+- ampliar documentación sobre algunos casos de estudio, 
 
-•	y apoyar procesos de redacción y reformulación. 
+- y apoyar procesos de redacción y reformulación. 
 
 El trabajo final, así como la selección de casos, el enfoque crítico, la interpretación teórica y la redacción definitiva del contenido, han sido desarrollados y revisados personalmente.
 Siguiendo las indicaciones de la asignatura, la IA se ha utilizado como herramienta de apoyo dentro de un proceso de reflexión y reelaboración propia, y no como sustitución del criterio personal ni de la autoría del ensayo.  
 
+---
+
+## LICENCIA  
 
 Este trabajo está bajo una licencia CC BY-SA 4.0
