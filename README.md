@@ -30,7 +30,9 @@ Fue una de las primeras veces que entendí que el arte podía alterar físicamen
 
 ## Guernica: contexto, museo y experiencia cultural 
 
-### El contexto expositivo como mediación ![Guernica: contexto expositivo en el Casón](guernica_contexto_expositivo_cason.webp)   
+### El contexto expositivo como mediación  
+
+![Guernica: contexto expositivo en el Casón](guernica_contexto_expositivo_cason.webp)   
 
 La experiencia del *Guernica* muestra que una obra no existe separada de su contexto. El espacio, la seguridad, el museo y la circulación histórica modifican la forma en que la imagen es percibida culturalmente.  
 
@@ -161,7 +163,9 @@ Lo interesante es que esta lógica ya no se limita únicamente al ámbito médic
 Plataformas como NVIDIA Omniverse resultan especialmente interesantes en este sentido porque permiten conectar simulación, física, visualización y datos en tiempo real dentro de un mismo entorno digital. Aunque en este caso ya no se trate específicamente del cuerpo humano, la lógica de funcionamiento es muy parecida: el software deja de representar simplemente la realidad para empezar a comportarse como un sistema paralelo capaz de analizarla, predecirla y modificarla al mismo tiempo.  
 
 
-## Gemelos digitales y simulación ### Simulación industrial y robótica 
+## Gemelos digitales y simulación  
+
+### Simulación industrial y robótica 
 
 ![Gemelos digitales: Omniverse y simulación robótica](gemelos_digitales_omniverse_simulacion_robotica.jpg)  
 
@@ -210,7 +214,7 @@ Y creo que, en el fondo, tanto Pulse Room como Surgical Theater apuntan ya hacia
 
 ### Bibliografía teórica  
 
--Adell, F. (2024). Fundamentos y evolución de la multimedia [Recurso de aprendizaje]. Universitat Oberta de Catalunya (UOC).b  
+-Adell, F. (2024). Fundamentos y evolución de la multimedia [Recurso de aprendizaje]. Universitat Oberta de Catalunya (UOC).  
 
 -Alberich-Pascual, J. (2018). Elementos de la creatividad multimedia: Apropiación, remediación, hibridación. Mosaic, (156). https://doi.org/10.7238/m.n156.1803  
 
@@ -226,15 +230,20 @@ ________________________________________
 
 ### Webgrafía / Casos de estudio  
 
--Lozano-Hemmer, R. (2006). Pulse Room. https://www.lozano-hemmer.com/pulse_room.php  
+-Lozano-Hemmer, R. (2006). Pulse Room.  
+https://www.lozano-hemmer.com/pulse_room.php  
 
--NVIDIA. (s.f.). Omniverse. https://www.nvidia.com/es-es/omniverse/  
+-NVIDIA. (s.f.). Omniverse.  
+https://www.nvidia.com/es-es/omniverse/  
 
--Surgical Theater. (s.f.). Surgical Planning. https://surgicaltheater.com/surgical-planning/  
+-Surgical Theater. (s.f.). Surgical Planning.  
+https://surgicaltheater.com/surgical-planning/  
 
--Surgical Theater. (s.f.). SyncAR. https://surgicaltheater.com/#syncar  
+-Surgical Theater. (s.f.). SyncAR.  
+https://surgicaltheater.com/#syncar  
 
--TeamLab. (s.f.). Borderless. https://www.teamlab.art/e/tokyo/  
+-TeamLab. (s.f.). Borderless.  
+https://www.teamlab.art/e/tokyo/  
 
 ________________________________________  
 
@@ -244,7 +253,21 @@ ________________________________________
 
 -La Razón. (2022). El Guernica y su llegada a España. https://www.larazon.es/cultura/arte/20220910/bfwfkhymnngttbsx4254i5m3rq.html  
 
----
+---  
+
+### Créditos visuales    
+
+- Pulse Room — Rafael Lozano-Hemmer  
+  https://www.lozano-hemmer.com/pulse_room.php  
+
+- Surgical Theater  
+  https://surgicaltheater.com/  
+
+- NVIDIA Omniverse  
+  https://www.nvidia.com/es-es/omniverse/  
+
+- Guernica en el Casón del Buen Retiro  
+  https://www.larazon.es/cultura/arte/20220910/bfwfkhymnngttbsx4254i5m3rq.html  
 
 
 ## DECLARACIÓN SOBRE EL USO DE LA IA
