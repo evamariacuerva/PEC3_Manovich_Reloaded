@@ -32,9 +32,10 @@ Fue una de las primeras veces que entendí que el arte podía alterar físicamen
 
 ### El contexto expositivo como mediación  
 
-![Guernica: contexto expositivo en el Casón](guernica_contexto_expositivo_cason.webp)   
+![Guernica: contexto expositivo en el Casón](guernica_contexto_expositivo_cason.webp)
 
-La experiencia del *Guernica* muestra que una obra no existe separada de su contexto. El espacio, la seguridad, el museo y la circulación histórica modifican la forma en que la imagen es percibida culturalmente.  
+> **Figura 1.** El *Guernica* en su contexto expositivo histórico. La imagen muestra cómo el museo, la seguridad y la memoria colectiva modifican la recepción cultural de una obra.
+
 
 
 Muchos años después volví a ver el Guernica, esta vez ya en el Reina Sofía. Y la sensación fue completamente distinta. El cuadro seguía siendo el mismo, pero el contexto había cambiado por completo. Ya no estaba encerrado en aquella especie de caja fuerte rodeada de tensión histórica y ruido constante. Ahora ocupaba una sala enorme donde podía respirar. Había espacio, silencio, luz y distancia suficiente para recorrerlo visualmente y detenerse por fin en los detalles, en los trazos, en las texturas y en la presencia física real de la obra.  
@@ -55,37 +56,34 @@ Un ejemplo muy representativo de este tipo de sistemas es Pulse Room (2006), del
 
 ### Cuerpo convertido en dato  
 
-![Pulse Room: cuerpo convertido en dato](pulse_room_cuerpo_dato_instalacion.jpg)  
+![Pulse Room: cuerpo convertido en dato](pulse_room_cuerpo_dato_instalacion.jpg)
 
+> **Figura 2.** *Pulse Room* transforma el pulso cardíaco de los visitantes en una secuencia lumínica. El cuerpo deja de ser solo presencia física y pasa a funcionar como dato activo dentro de un sistema interactivo.
 
-
-La instalación *Pulse Room* transforma el pulso cardíaco de los visitantes en una secuencia lumínica. El cuerpo deja de ser solo presencia física y pasa a funcionar como dato activo dentro de un sistema interactivo. 
 
 
 ### Experiencia reactiva en el espacio  
 
-![Pulse Room: experiencia reactiva en el espacio](pulse_room_experiencia_reactiva_espacio.gif)   
+![Pulse Room: experiencia reactiva en el espacio](pulse_room_experiencia_reactiva_espacio.gif)
 
-
-El espacio expositivo responde al comportamiento humano mediante software, sensores y luz. La obra ya no es un objeto cerrado, sino un sistema variable que cambia con cada interacción. 
+> **Figura 3.** La instalación funciona como un entorno reactivo que cambia con la participación del público. La obra ya no se presenta como objeto cerrado, sino como sistema variable gobernado por software.
+ 
 
 
 
 ### Pulso, luz e interacción   
 
-![Pulse Room: pulso, luz e interacción](pulse_room_pulso_luz_interaccion.gif)   
+![Pulse Room: pulso, luz e interacción](pulse_room_pulso_luz_interaccion.gif)
 
-
-La señal íntima del cuerpo se traduce en comportamiento visual compartido. Esta conversión entre biometría y luz muestra la hibridación entre organismo, tecnología y entorno.  
+> **Figura 4.** La señal íntima del cuerpo se traduce en comportamiento visual compartido. Esta conversión entre biometría y luz muestra la hibridación entre organismo, tecnología y entorno  
 
 
 
 ### Archivo biológico colectivo   
 
-![Pulse Room: archivo biológico de bombillas](pulse_room_archivo_biologico_bombillas.gif)  
+![Pulse Room: archivo biológico de bombillas](pulse_room_archivo_biologico_bombillas.gif)
 
-
-Cada nuevo participante añade su ritmo cardíaco a la instalación, desplazando los pulsos anteriores. La obra se convierte así en un archivo biológico colectivo generado en tiempo real. 
+> **Figura 5.** Cada nuevo participante añade su ritmo cardíaco a la instalación, desplazando los pulsos anteriores. La obra se convierte así en un archivo biológico colectivo generado en tiempo real. 
 
 
 
@@ -126,27 +124,29 @@ El cuerpo se convierte así en un sistema visual manipulable mediante lógica co
 
 ### Planificación craneal basada en datos 
 
-![Surgical Theater: planificación craneal basada en datos](surgical_theater_planificacion_craneal_datos.jpg)  
+![Surgical Theater: planificación craneal basada en datos](surgical_theater_planificacion_craneal_datos.jpg)
 
-La imagen médica deja de ser una representación plana y se convierte en un sistema de datos manipulable. El software permite organizar, visualizar y recorrer estructuras anatómicas complejas.  
+> **Figura 6.** La imagen médica deja de ser una representación plana y se convierte en un sistema de datos manipulable. El software permite organizar, visualizar y recorrer estructuras anatómicas complejas. 
 
 ### Cuerpo navegable y realidad aumentada  
 
-![Surgical Theater: cuerpo navegable en columna](surgical_theater_cuerpo_navegable_columna.jpg)  
+![Surgical Theater: cuerpo navegable en columna](surgical_theater_cuerpo_navegable_columna.jpg)
 
-El cuerpo se transforma en un entorno tridimensional navegable. La anatomía ya no se observa únicamente desde fuera, sino que puede explorarse mediante interfaces inmersivas.  
+> **Figura 7.** Surgical Theater convierte datos médicos en un entorno tridimensional navegable. El cuerpo se transforma en una estructura visual manipulable mediante software.  
 
 ### Incisión y visualización aumentada  
 
-![Surgical Theater: incisión con visualización AR](surgical_theater_incision_ar_visualizacion.gif)  
+![Surgical Theater: incisión con visualización AR](surgical_theater_incision_ar_visualizacion.gif)
 
-La realidad aumentada superpone información digital sobre el cuerpo físico. La práctica quirúrgica se hibrida con simulación, visualización espacial y cálculo computacional.
+> **Figura 8.** La realidad aumentada superpone información digital sobre el cuerpo físico. La práctica quirúrgica se hibrida con simulación, visualización espacial y cálculo computacional.
 
-### Entorno craneal inmersivo  
 
-![Surgical Theater: entorno craneal inmersivo](surgical_theater_entorno_craneal_inmersivo.gif)  
+### Entorno craneal inmersivo 
 
-El modelo craneal funciona como un espacio operativo. La imagen digital deja de ser superficie visual y pasa a comportarse como entorno interactivo para la planificación médica.
+![Surgical Theater: entorno craneal inmersivo](surgical_theater_entorno_craneal_inmersivo.gif)
+
+> **Figura 9.** El modelo craneal funciona como un espacio operativo. La imagen digital deja de ser superficie visual y pasa a comportarse como entorno interactivo para la planificación médica
+
 
 
 A su vez, este tipo de sistemas reflejan muy claramente varios de los principios descritos por Lev Manovich sobre los nuevos medios.  
@@ -174,9 +174,9 @@ Plataformas como NVIDIA Omniverse resultan especialmente interesantes en este se
 
 ### Simulación industrial y robótica 
 
-![Gemelos digitales: Omniverse y simulación robótica](gemelos_digitales_omniverse_simulacion_robotica.jpg)  
+![Gemelos digitales: Omniverse y simulación robótica](gemelos_digitales_omniverse_simulacion_robotica.jpg)
 
-La lógica del gemelo digital se extiende más allá del ámbito médico. Plataformas como Omniverse integran simulación, visualización, física y robótica en un mismo entorno computacional.  
+> **Figura 10.** La lógica del gemelo digital se extiende más allá del ámbito médico. Plataformas como Omniverse integran simulación, visualización, física y robótica en un mismo entorno computacional.  
 
 
 Me parece especialmente interesante cómo estas tecnologías terminan conectando disciplinas que antes parecían completamente separadas. Anatomía, escultura digital, simulación, realidad virtual, visualización científica o inteligencia artificial empiezan a compartir herramientas, lenguajes y sistemas de representación híbridos.  
