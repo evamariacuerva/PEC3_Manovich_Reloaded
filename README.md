@@ -260,9 +260,6 @@ ________________________________________
 
 ## REPOSITORIOS Y RECURSOS DE APOYO
 
-Para la elaboración y publicación de esta PEC se han tenido en cuenta distintos recursos relacionados con cultura colaborativa, documentación abierta y metodologías de publicación en GitHub.
-
-Estos recursos se incluyen como referencia metodológica dentro del contexto de trabajo propuesto por la asignatura, especialmente en relación con escritura abierta, cultura digital y publicación distribuida.
 
 - Lord of the Files  
   https://github.com/WiredEnterprise/Lord-of-the-Files  
