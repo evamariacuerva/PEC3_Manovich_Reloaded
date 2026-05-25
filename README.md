@@ -32,7 +32,7 @@ Fue una de las primeras veces que entendí que el arte podía alterar físicamen
 
 ### El contexto expositivo como mediación  
 
-![Guernica: contexto expositivo en el Casón](guernica_contexto_expositivo_cason.webp)
+![Guernica: contexto expositivo en el Casón](assets/guernica/guernica_contexto_expositivo_cason.webp)
 
 > **Figura 1.** El *Guernica* en su contexto expositivo histórico. La imagen muestra cómo el museo, la seguridad y la memoria colectiva modifican la recepción cultural de una obra.
 
@@ -56,7 +56,7 @@ Un ejemplo muy representativo de este tipo de sistemas es Pulse Room (2006), del
 
 ### Cuerpo convertido en dato  
 
-![Pulse Room: cuerpo convertido en dato](pulse_room_cuerpo_dato_instalacion.jpg)
+![Pulse Room: cuerpo convertido en dato](assets/pulse_room/pulse_room_cuerpo_dato_instalacion.jpg)
 
 > **Figura 2.** *Pulse Room* transforma el pulso cardíaco de los visitantes en una secuencia lumínica. El cuerpo deja de ser solo presencia física y pasa a funcionar como dato activo dentro de un sistema interactivo.
 
@@ -64,7 +64,7 @@ Un ejemplo muy representativo de este tipo de sistemas es Pulse Room (2006), del
 
 ### Experiencia reactiva en el espacio  
 
-![Pulse Room: experiencia reactiva en el espacio](pulse_room_experiencia_reactiva_espacio.gif)
+![Pulse Room: experiencia reactiva en el espacio](assets/pulse_room/pulse_room_experiencia_reactiva_espacio.gif)
 
 > **Figura 3.** La instalación funciona como un entorno reactivo que cambia con la participación del público. La obra ya no se presenta como objeto cerrado, sino como sistema variable gobernado por software.
  
@@ -73,7 +73,7 @@ Un ejemplo muy representativo de este tipo de sistemas es Pulse Room (2006), del
 
 ### Pulso, luz e interacción   
 
-![Pulse Room: pulso, luz e interacción](pulse_room_pulso_luz_interaccion.gif)
+![Pulse Room: pulso, luz e interacción](assets/pulse_room/pulse_room_pulso_luz_interaccion.gif)
 
 > **Figura 4.** La señal íntima del cuerpo se traduce en comportamiento visual compartido. Esta conversión entre biometría y luz muestra la hibridación entre organismo, tecnología y entorno  
 
@@ -81,7 +81,7 @@ Un ejemplo muy representativo de este tipo de sistemas es Pulse Room (2006), del
 
 ### Archivo biológico colectivo   
 
-![Pulse Room: archivo biológico de bombillas](pulse_room_archivo_biologico_bombillas.gif)
+![Pulse Room: archivo biológico de bombillas](assets/pulse_room/pulse_room_archivo_biologico_bombillas.gif)
 
 > **Figura 5.** Cada nuevo participante añade su ritmo cardíaco a la instalación, desplazando los pulsos anteriores. La obra se convierte así en un archivo biológico colectivo generado en tiempo real. 
 
@@ -124,26 +124,26 @@ El cuerpo se convierte así en un sistema visual manipulable mediante lógica co
 
 ### Planificación craneal basada en datos 
 
-![Surgical Theater: planificación craneal basada en datos](surgical_theater_planificacion_craneal_datos.jpg)
+![Surgical Theater: planificación craneal basada en datos](assets/surgical_theater/surgical_theater_planificacion_craneal_datos.jpg)
 
 > **Figura 6.** La imagen médica deja de ser una representación plana y se convierte en un sistema de datos manipulable. El software permite organizar, visualizar y recorrer estructuras anatómicas complejas. 
 
 ### Cuerpo navegable y realidad aumentada  
 
-![Surgical Theater: cuerpo navegable en columna](surgical_theater_cuerpo_navegable_columna.jpg)
+![Surgical Theater: cuerpo navegable en columna](assets/surgical_theater/surgical_theater_cuerpo_navegable_columna.jpg)
 
 > **Figura 7.** Surgical Theater convierte datos médicos en un entorno tridimensional navegable. El cuerpo se transforma en una estructura visual manipulable mediante software.  
 
 ### Incisión y visualización aumentada  
 
-![Surgical Theater: incisión con visualización AR](surgical_theater_incision_ar_visualizacion.gif)
+![Surgical Theater: incisión con visualización AR](assets/surgical_theater/surgical_theater_incision_ar_visualizacion.gif)
 
 > **Figura 8.** La realidad aumentada superpone información digital sobre el cuerpo físico. La práctica quirúrgica se hibrida con simulación, visualización espacial y cálculo computacional.
 
 
 ### Entorno craneal inmersivo 
 
-![Surgical Theater: entorno craneal inmersivo](surgical_theater_entorno_craneal_inmersivo.gif)
+![Surgical Theater: entorno craneal inmersivo](assets/surgical_theater/surgical_theater_entorno_craneal_inmersivo.gif)
 
 > **Figura 9.** El modelo craneal funciona como un espacio operativo. La imagen digital deja de ser superficie visual y pasa a comportarse como entorno interactivo para la planificación médica
 
@@ -174,7 +174,7 @@ Plataformas como NVIDIA Omniverse resultan especialmente interesantes en este se
 
 ### Simulación industrial y robótica 
 
-![Gemelos digitales: Omniverse y simulación robótica](gemelos_digitales_omniverse_simulacion_robotica.jpg)
+![Gemelos digitales: Omniverse y simulación robótica](assets/omniverse/gemelos_digitales_omniverse_simulacion_robotica.jpg)
 
 > **Figura 10.** La lógica del gemelo digital se extiende más allá del ámbito médico. Plataformas como Omniverse integran simulación, visualización, física y robótica en un mismo entorno computacional.  
 
